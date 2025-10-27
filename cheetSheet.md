@@ -2,6 +2,7 @@
 ✔️ Headings (H1–H3)  
 ✔️ Italic, Bold, StrikeThrough  
 ✔️ Hyperlink  
+✔️ Images 
 ✔️ Syntax highlighted JavaScript code  
 ✔️ Blockquote  
 ✔️ Proper table  
@@ -29,6 +30,9 @@ _This is written in Italic_
 ***
 
 [Google](https://google.com "title") 
+***
+
+![images](https://images.pexels.com/photos/8721322/pexels-photo-8721322.jpeg)
 ***
 
 ```javascript
