@@ -45,10 +45,11 @@ let x=10
 |four|five|six|
 ***
 
-1.List one
-2.List two
-3.List three
-    1.List one
+1. List one
+2. List two
+3. List three
+    1. sub list item one
+    2. sub list item two
 
 ***
 
