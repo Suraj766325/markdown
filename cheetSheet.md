@@ -2,7 +2,7 @@
 ✔️ Headings (H1–H3)  
 ✔️ Italic, Bold, StrikeThrough  
 ✔️ Hyperlink  
-✔️ Images 
+✔️ Images  
 ✔️ Syntax highlighted JavaScript code  
 ✔️ Blockquote  
 ✔️ Proper table  
